@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Daniel</h1>
-<h3>Currently studying second year of DAW in UCAM University</h3>
+<h3>Currently working as a Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on [Padel App](https://github.com/danniiigt/padel-app-tfg)
 

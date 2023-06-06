@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Daniel</h1>
 <h3>Currently studying second year of DAW in UCAM University</h3>
 
-- 🔭 I’m currently working on [Coches de Ocasión](https://github.com/danniiigt/Coches-de-Ocasion-FrontEnd)
+- 🔭 I’m currently working on [Padel App](https://github.com/danniiigt/padel-app-tfg)
 
 - 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **React, MongoDB, JavaScript...**
+- 💬 Ask me about **React, NextJs, JavaScript...**
 
 - 📫 How to reach me **danielgonzalezt13@gmail.com**
 

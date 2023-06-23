@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Padel App](https://github.com/danniiigt/padel-app-tfg)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **React, NextJs, JavaScript...**
 

@@ -1,9 +1,10 @@
 <h1>Hi 👋, I'm Daniel</h1>
-<h3>Currently working as a Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [Padel App](https://github.com/danniiigt/padel-app-tfg)
+- 💻 I’m currently building a renewed portfolio
 
-- 🌱 I’m currently learning **Solidity**
+- 🔭 I’m currently building a renewed portfolio
+
+- 🌱 I’m currently learning Web 3.0 and SaaS
 
 - 💬 Ask me about **React, NextJs, JavaScript...**
 

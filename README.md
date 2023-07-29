@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Daniel</h1>
 
-- 💻 I’m currently building a renewed portfolio
+- 💻 I’m currently working as React Web Developer
 
 - 🔭 I’m currently building a renewed portfolio
 

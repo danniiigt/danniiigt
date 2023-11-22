@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Daniel</h1>
+# Hi 👋, I'm Daniel
 
 - 💻 I’m currently working as React Web Developer
 
@@ -8,7 +8,79 @@
 
 - 💬 Ask me about **React, NextJs, JavaScript...**
 
-- 📫 How to reach me **danielgonzalezt13@gmail.com**
+- 📫 You can reach me here => **danielgonzalezt13@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+### Some of the technologies I use on a daily basis:
+
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+    <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+        alt="javascript" 
+        width="40" 
+        height="40"
+    /> 
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
+        alt="react" 
+        width="40" 
+        height="40"
+    /> 
+</a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+       alt="Nextjs"
+       width="40"
+       height="40"  
+    />
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+       alt="PostgreSQL"
+       width="40"
+       height="40"  
+    />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+       alt="MySQL"
+       width="40"
+       height="40"  
+    />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
+        alt="mongodb" 
+        width="40" 
+        height="40"
+    /> 
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
+        alt="Docker" 
+        width="40" 
+        height="40"
+    /> 
+</a>
+<a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> 
+    <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" 
+        alt="DigitalOcean" 
+        width="40" 
+        height="40"
+    /> 
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
+        alt="VsCode" 
+        width="40" 
+        height="40"
+    /> 
+</a>

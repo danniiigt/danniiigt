@@ -1,10 +1,8 @@
 # Hi 👋, I'm Daniel
 
-- 💻 I’m currently working as React Web Developer
+- 💻 I’m currently working as Fullstack Developer
 
-- 🔭 I’m currently building a renewed portfolio
-
-- 🌱 I’m currently learning Web 3.0 and SaaS
+- 🌱 I’m constantly learning, now mainly focused on AI and SaaS
 
 - 💬 Ask me about **React, NextJs, JavaScript...**
 
